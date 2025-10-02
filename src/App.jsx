@@ -5,9 +5,9 @@ const stocks = [
   { ticker: 'NVDA' },
   { ticker: 'TSLA' },
   { ticker: 'GOOGL' },
-  { ticker: 'QQQM1' }, // 임시로 오류 발생시키기
+  { ticker: 'QQQM' },
   { ticker: 'SPLG' }, 
-  // { ticker: '005930.KS' },
+  { ticker: '005930.KS' }, // 한국 주식
 ]
 
 function App() {
