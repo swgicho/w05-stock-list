@@ -7,6 +7,7 @@ const stocks = [
   { ticker: 'GOOGL' },
   { ticker: 'QQQM' },
   { ticker: 'SPLG' }, 
+  { ticker: 'CRCL' },
   { ticker: '005930.KS' }, // 한국 주식
 ]
 
